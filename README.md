@@ -35,4 +35,6 @@ At some point you will likely need to clone the repository to your development m
 
 For additional information, consult the individual assignment pages in Canvas.
 
+**Please Note:** You may come up with whatever ideas you want regarding the development of this project. You should allow your imagination and intellect run wild. But please realize that you will not be actually building the things you suggest. All the time we have this quarter allows for is one or two tasks per person, which means your project will be far from complete at the end of this quarter. **That is OK!** And it is expected.
+
 
